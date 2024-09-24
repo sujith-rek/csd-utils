@@ -1,1 +1,3 @@
 # csd-utils
+
+Day to day utils, auto execute or unzip etc...
